@@ -13,4 +13,5 @@ contract myContract{
         P2contract.sendTask(message);
     }
 }
-// for this part, I created a copy of part2 contract in my Remix. 
+// For this part, I created a copy of the part2 contract in Remix. 
+// In my contract, I import P2 and create an instance of P2 and use it to call the sendTask function.
