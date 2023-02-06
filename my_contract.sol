@@ -13,3 +13,4 @@ contract myContract{
         P2contract.sendTask(message);
     }
 }
+// for this part, I created a copy of part2 contract in my Remix. 
